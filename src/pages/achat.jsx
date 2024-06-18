@@ -2,7 +2,10 @@
 const Achat = () => {
     return (
         <div>
-            <h1>Acceuil</h1>
+            <main className="container">
+                <h1>Achat</h1>
+                <p>Bienvenue sur ma page achat</p>
+            </main>
         </div>
     )
 }

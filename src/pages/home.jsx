@@ -2,7 +2,10 @@
 const Home = () => {
     return (
         <div>
-            <h1>Acceuil</h1>
+            <main className="container">
+                <h1>Page d'accueil</h1>
+                <p>Bienvenue sur ma page d'accueil !</p>
+            </main>
         </div>
     )
 }
