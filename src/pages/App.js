@@ -4,7 +4,9 @@ import Nav from "./pages/nav";
 export default function App () {
   return (
     <div className="App">
-      <Nav />
+      <header>
+        <Nav />
+      </header>
     </div>
   );
 } 
